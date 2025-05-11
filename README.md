@@ -74,8 +74,8 @@ This project showcases a suite of intelligent and interactive web applications b
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/genai-gemini-model.git
-cd genai-gemini-model
+git clone https://github.com/snuka75/GenAI-Gemini-Model.git
+cd GenAI-Gemini-Model
 ```
 
 2. **Install dependencies**  
@@ -86,7 +86,7 @@ pip install -r requirements.txt
 3. **Run the app**  
 Choose an application to run (e.g., Chatbot):
 ```bash
-streamlit run app/chatbot_app.py
+streamlit run app/app.py
 ```
 
 ---
